@@ -11,7 +11,9 @@ to predict the Saleprice prices for each house.
 
 # Data exploration.
 1.training data set has 1460 samples, 80 features,1 target variable.
+
 2.test data has 1459 samples, 80 features.
+
 3.the target variable is SalePrice.
 
 # Feature engineering.
