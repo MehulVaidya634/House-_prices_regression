@@ -63,4 +63,4 @@ scaling down the values using minmax scalar as the data does not follow noraml d
 
 1.The linear regreesion model got the r2_score of 87.80%
 
-2.ridge and lasso regression model gave r2_score of 89.47%.
+2.Ridge and Lasso regression model gave r2_score of 89.47%.
