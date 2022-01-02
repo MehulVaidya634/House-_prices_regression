@@ -55,8 +55,12 @@ scaling down the values using minmax scalar as the data does not follow noraml d
 
 3.predicting the traget variable.
 
+4.Training ridge and lasso resgression.
+
 
 
 ## Results.
 
-1.The trained model got the accuracy of 87.80%
+1.The linear regreesion model got the r2_score of 87.80%
+
+2.ridge and lasso regression model gave r2_score of 89.47%.
