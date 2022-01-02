@@ -16,7 +16,6 @@ to predict the Saleprice prices for each house.
 1.the test dataset set and train dataset has same columns with uneven categories, therefore Concatenate both the datasets.
 2.Checking for missing values.
 
-![download](https://user-images.githubusercontent.com/95433685/147868282-89995e1b-4af7-4b3d-aa97-07b7c21e0a2a.png)
 
 
 
