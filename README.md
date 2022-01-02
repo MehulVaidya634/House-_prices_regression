@@ -38,12 +38,6 @@ and categorical with most frequent element.
 
 8.dropping the features which are having low corelation with target variable.
 
-## independent and dependent variables.
-
-1.creating independent and dependent variables.
-
-2.splitting the dataset into training data and test data.
-
 ## Feature scaling.
 
 Normalization.
